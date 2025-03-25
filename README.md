@@ -15,6 +15,31 @@ Whether you're refining your workflow, preparing for technical interviews, or lo
 
 ---
 
+## Official Cursor Documentation Resources
+
+### Getting Started
+- [Cursor Introduction](https://docs.cursor.com/get-started/introduction)
+- [Installation Guide](https://docs.cursor.com/get-started/installation)
+- [Quick Start Tutorial](https://docs.cursor.com/get-started/quick-start)
+
+### Core Features
+- [AI-Powered Editing](https://docs.cursor.com/features/ai-editing)
+- [Chat and Generate Modes](https://docs.cursor.com/features/chat-generate)
+- [Project Context Understanding](https://docs.cursor.com/features/project-context)
+
+### Advanced Techniques
+- [Prompt Engineering](https://docs.cursor.com/advanced/prompt-engineering)
+- [Multi-File Editing](https://docs.cursor.com/advanced/multi-file-editing)
+- [Custom AI Model Configuration](https://docs.cursor.com/advanced/ai-model-config)
+
+### Troubleshooting
+- [Common Issues](https://docs.cursor.com/support/troubleshooting)
+- [Performance Optimization](https://docs.cursor.com/support/performance)
+
+### Community and Support
+- [Community Forums](https://docs.cursor.com/community/forums)
+- [Feedback and Improvements](https://docs.cursor.com/community/feedback)
+
 ## 1. Embrace the AI: Chat, Edit, and Generate
 
 The core of Cursor's power lies in its integrated AI. Don't treat it like a traditional editor; actively engage with the AI features:
@@ -26,43 +51,31 @@ The core of Cursor's power lies in its integrated AI. Don't treat it like a trad
     *   **Use Cases:** Refactoring, bug fixing, adding comments, code optimization, style changes.
     *   **Example:** Select a function and type `/edit Convert this to an arrow function and add type annotations.`
 
-> **Related:** [Advanced Inline Editing Techniques for Cursor](https://cursor.sh/blog/advanced-inline-editing) - Learn how to master complex code transformations with minimal keystrokes.
+> **Related:** [Inline Editing Details](https://docs.cursor.com/features/inline-editing)
 
 *   **`@` (Symbol and File References):** This allows you to include context from your codebase.
     *   **`@` a file:** to give context of the whole file to your current edit instruction or chat prompt. Example: `How can I call /src/utils/helperFunctions.ts @src/utils/helperFunctions.ts in this code?`
     *   **`@` a symbol:** to provide context of a specific class, function, or variable. Example: `Can you explain what this function does? @myFunction`.
     *   **Combining `@`:** You can reference multiple files and symbols. Example: `/edit Refactor this function to use @helperFunction from @utils/helperFunctions.ts`
 
-> **Related:** [Leveraging Context in Cursor for Better Code Understanding](https://cursor.sh/blog/context-driven-development) - Discover how to effectively use the `@` symbol to improve AI comprehension.
+> **Related:** [Context Reference Guide](https://docs.cursor.com/features/context-reference)
 
-*   **Chat (CMD+K / Ctrl+K):** Use the chat interface for:
-    *   **Generating Code from Scratch:** Describe what you want to build (e.g., "Create a React component that displays a list of users with their names and email addresses").
-    *   **Explaining Code:** Ask Cursor to explain code you don't understand (e.g., "What does this regular expression do?"). You can paste code directly into the chat.
-    *   **Debugging:** Describe the error you're encountering and any relevant code. Cursor can often suggest potential causes and solutions.
-    *   **Planning and Design:** Discuss architectural decisions or ask for recommendations on libraries or frameworks.
-    *   **Example:** Type `CMD+K` (or `Ctrl+K`) and then "Generate a Python function that takes a list of numbers and returns the average."
+## 2. Understand Cursor's Key Features
 
-> **Related:** [From Idea to Implementation: Effective Chatting with Cursor](https://cursor.sh/blog/chat-strategies) - Learn conversation techniques that yield better code generation results.
+*   **AI Chat Interface:** 
+    *   Use `CMD+K` (or `Ctrl+K`) to open the chat
+    *   Generate code, explain complex logic, or get debugging assistance
+    *   Provide clear, specific prompts for best results
 
-*   **Generate (CMD+L / Ctrl+L):** The dedicated "Generate" mode is best for creating larger blocks of code *within* the current file.
-    *   **Context is Key:** Cursor uses the surrounding code as context. Make sure your cursor is in the right place (e.g., inside a class, within a function) for the generated code to be relevant.
-    *   **Provide a Clear Prompt:** Be as descriptive as possible about the code you want to generate.
-    *   **Example:** Place your cursor inside a class and type `CMD+L` (or `Ctrl+L`) and then "Create a method that fetches data from an API endpoint and updates the state."
+*   **Generate Mode:**
+    *   Use `CMD+L` (or `Ctrl+L`)
+    *   Best for creating larger code blocks within the current file
+    *   Relies heavily on surrounding context
 
-> **Related:** [The Art of Prompt Engineering in Cursor](https://cursor.sh/blog/prompt-engineering-for-developers) - Create better prompts that result in production-ready code generation.
-
-## 2. Master the Keyboard Shortcuts
-
-Like any powerful tool, Cursor is most efficient when used with keyboard shortcuts. Learn the essentials:
-
-*   **CMD+K / Ctrl+K:** Open the chat interface.
-*   **CMD+L / Ctrl+L:** Open the Generate mode.
-*   **CMD+Shift+L / Ctrl+Shift+L:** Apply the suggested edit (when using `/edit`).
-*   **CMD+Z / Ctrl+Z:** Undo (works for AI edits too!).
-*   **CMD+Shift+Z / Ctrl+Shift+Z:** Redo.
-*   **Learn your IDE's standard shortcuts:** Cursor builds upon standard IDE shortcuts (e.g., for navigation, selection, and editing).
-
-> **Related:** [Cursor Keyboard Shortcuts Cheat Sheet](https://cursor.sh/blog/keyboard-shortcuts) - Download our printable PDF with all essential shortcuts for maximum productivity.
+*   **Multi-File Context:**
+    *   Cursor understands project-wide context
+    *   Can reference and work across multiple files
+    *   Use `@` to provide specific file or symbol context
 
 ## 3. Configure Your Settings
 
@@ -73,8 +86,6 @@ Cursor offers several settings to customize your experience:
 *   **Theme:** Choose a theme that's comfortable for your eyes.
 *   **Extensions:** While Cursor is powerful on its own, you can still install extensions for additional functionality.
 
-> **Related:** [Optimizing Cursor for Your Workflow](https://cursor.sh/blog/cursor-configuration-guide) - Learn how to set up Cursor for different types of projects and coding styles.
-
 ## 4. Understand Context Limits
 
 Cursor's AI has a context window, meaning it can only "see" a limited amount of code at a time. For very large projects:
@@ -83,8 +94,6 @@ Cursor's AI has a context window, meaning it can only "see" a limited amount of 
 *   **Use `@` Effectively:** Use `@` references to provide relevant context from other parts of your codebase.
 *   **Be Mindful of File Size:** For extremely large files, consider splitting them into smaller, more logical units.
 
-> **Related:** [Working with Large Codebases in Cursor](https://cursor.sh/blog/large-project-strategies) - Strategies for effectively navigating and modifying massive projects.
-
 ## 5. Provide Feedback
 
 Cursor's AI is constantly learning. Provide feedback on the generated code:
@@ -92,8 +101,6 @@ Cursor's AI is constantly learning. Provide feedback on the generated code:
 *   **Thumbs Up/Down:** Use the thumbs up/down buttons to rate the quality of the AI's suggestions. This helps improve the model over time.
 *   **Regenerate:** If the suggestion isn't quite right, click the "Regenerate" button to try again.
 *   **Report Issues:** If you encounter any bugs or unexpected behavior, report them to the Cursor team.
-
-> **Related:** [How Your Feedback Improves Cursor](https://cursor.sh/blog/feedback-loop) - Understanding how user feedback shapes AI model improvements.
 
 ## 6. Leverage Live Coding with Cursor
 
@@ -113,7 +120,6 @@ Live coding in Cursor allows you to collaborate with the AI in real-time, creati
     *   **Scaffold & Expand:** Let Cursor generate a basic implementation, then work with it to understand and customize the code.
     *   **Example:** Type `// Create a basic GraphQL resolver for user authentication` and build upon Cursor's generated code.
 
-> **Related:** [Pair Programming with AI: Live Coding Techniques in Cursor](https://cursor.sh/blog/live-coding-techniques) - Learn how to establish an effective dialogue with Cursor during coding sessions.
 
 ## 7. Optimize Multi-Context Programming (MCP) Services
 
@@ -139,8 +145,6 @@ Cursor's MCP services allow the AI to understand and work with multiple contexts
     *   **Example:** `How would changing this interface @types/User.ts affect my application?`
     *   **Impact Analysis:** Before making significant changes, ask Cursor to analyze potential impacts.
 
-> **Related:** [Mastering Multi-Context Programming in Cursor](https://cursor.sh/blog/multi-context-programming) - Advanced techniques for working across files and maintaining holistic project understanding.
-
 ## 8. Language-Specific Tips
 
 While the core principles apply across languages, there are often language-specific nuances:
@@ -150,28 +154,22 @@ While the core principles apply across languages, there are often language-speci
     *   Use the chat to generate docstrings conforming to specific styles (e.g., Google, NumPy).
     *   **Example:** `/edit Refactor this to use a list comprehension and add type hints.`
 
-> **Related:** [Python Development with Cursor](https://cursor.sh/blog/python-development-best-practices) - Tips specific to Python developers for faster, cleaner code.
 
 *   **JavaScript/TypeScript:**
     *   `/edit` excels at converting between JavaScript and TypeScript, adding types, and working with modern syntax (e.g., async/await, arrow functions).
     *   Use the chat for generating React components, Redux reducers, or utility functions.
     *   **Example:** `/edit Convert this class component to a functional component with hooks.`
 
-> **Related:** [Modern JS/TS Development in Cursor](https://cursor.sh/blog/javascript-typescript-productivity) - Leveraging AI for frontend and Node.js development.
-
 *   **Java:**
     *  Cursor can help streamline verbose Java code, such as generating getters and setters, implementing interfaces, or creating unit tests.
     *  Use chat to get suggestions on design patterns and best practices.
     *   **Example:** `/edit Generate equals and hashCode methods for this class.`
-
-> **Related:** [Java Development Acceleration with Cursor](https://cursor.sh/blog/java-development-guide) - From boilerplate elimination to enterprise patterns.
 
 *   **C++:**
      *  Cursor can help with complex memory management tasks and template metaprogramming.
      *  Leverage the chat to debug segfaults, understand compiler errors.
      *   **Example:** `/edit Add a smart pointer to prevent memory leaks`.
 
-> **Related:** [C++ Programming in Cursor](https://cursor.sh/blog/cpp-development-techniques) - Managing complexity and improving safety with AI assistance.
 
 ## 9. Use Cursor for More Than Just Coding
 
@@ -183,11 +181,10 @@ Cursor isn't just for writing code; it can also help with other development task
 *   **Git Messages:** Use Cursor to create well-written, informative commit messages. `/edit` on the staged changes.
 *   **Debugging**: Use Cursor to identify the issue and fix your code.
 
-> **Related:** [Beyond Coding: Cursor as Your Development Partner](https://cursor.sh/blog/cursor-for-complete-workflow) - How to integrate Cursor into your entire development lifecycle.
+## Cursor Best Practices Resources
 
 ## Conclusion
 
-Cursor is a powerful tool that can significantly enhance your coding workflow. By embracing its AI features, mastering keyboard shortcuts, and understanding its capabilities, you can become a more efficient and productive developer. Remember to experiment, provide feedback, and adapt these best practices to your specific needs and coding style.
+Cursor is a powerful AI-assisted coding tool that can significantly enhance your development workflow. Experiment, learn, and adapt these practices to your specific coding style and project needs.
 
-> **Related:** [Cursor Success Stories](https://cursor.sh/blog/developer-success-stories) - See how developers are using Cursor to transform their productivity and code quality.
-
+> **Tip:** Regularly check [Cursor Documentation](https://docs.cursor.com) for the latest features and best practices.
