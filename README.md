@@ -183,6 +183,15 @@ Cursor isn't just for writing code; it can also help with other development task
 
 ## Cursor Best Practices Resources
 
+* [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding)
+* [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules) - @PatrickJS
+* [devin.cursorrules](https://github.com/grapeot/devin.cursorrules)
+* [cursor.directory](https://github.com/pontusab/directories)
+* [How I use Cursor (+ my best tips)](https://www.builder.io/blog/cursor-tips)
+* [6 Tips for improving your Cursor Composer and Convex Workflow](https://stack.convex.dev/6-tips-for-improving-your-cursor-composer-and-convex-workflow)
+* [Top Cursor Rules for Coding Agents](https://www.prompthub.us/blog/top-cursor-rules-for-coding-agents)
+
+
 ## Conclusion
 
 Cursor is a powerful AI-assisted coding tool that can significantly enhance your development workflow. Experiment, learn, and adapt these practices to your specific coding style and project needs.
