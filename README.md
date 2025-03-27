@@ -185,11 +185,26 @@ Cursor isn't just for writing code; it can also help with other development task
 
 * [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding)
 * [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules) - @PatrickJS
+* [awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - @kleneway
 * [devin.cursorrules](https://github.com/grapeot/devin.cursorrules)
 * [cursor.directory](https://github.com/pontusab/directories)
 * [How I use Cursor (+ my best tips)](https://www.builder.io/blog/cursor-tips)
 * [6 Tips for improving your Cursor Composer and Convex Workflow](https://stack.convex.dev/6-tips-for-improving-your-cursor-composer-and-convex-workflow)
 * [Top Cursor Rules for Coding Agents](https://www.prompthub.us/blog/top-cursor-rules-for-coding-agents)
+
+## Awesome MCP repositories
+
+* [Cursor Talk To Figma MCP](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
+* [Figma-Context-MCP ](https://github.com/GLips/Figma-Context-MCP)
+* [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
+* [Firecrawl MCP Serve](https://github.com/mendableai/firecrawl-mcp-server)
+* [Playwright Model Context Protocol Server](https://github.com/executeautomation/mcp-playwright)
+* [magic-mcp](https://github.com/21st-dev/magic-mcp)
+* [supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server)
+* [mcp-send-email](https://github.com/resend/mcp-send-email)
+* [browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server)
+* [mcp-unity](https://github.com/CoderGamester/mcp-unity)
+* [fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
 
 
 ## Conclusion
