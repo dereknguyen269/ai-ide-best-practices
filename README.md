@@ -15,6 +15,30 @@ Whether you're refining your workflow, preparing for technical interviews, or lo
 
 ---
 
+## Table of Contents
+
+- [Official Cursor Documentation Resources](#official-cursor-documentation-resources)
+  - [Getting Started](#getting-started)
+  - [Core Features](#core-features)
+  - [Advanced Techniques](#advanced-techniques)
+  - [Troubleshooting](#troubleshooting)
+  - [Community and Support](#community-and-support)
+- [1. Embrace the AI: Chat, Edit, and Generate](#1-embrace-the-ai-chat-edit-and-generate)
+- [2. Understand Cursor's Key Features](#2-understand-cursors-key-features)
+- [3. Configure Your Settings](#3-configure-your-settings)
+- [4. Understand Context Limits](#4-understand-context-limits)
+- [5. Provide Feedback](#5-provide-feedback)
+- [6. Leverage Live Coding with Cursor](#6-leverage-live-coding-with-cursor)
+- [7. Optimize Multi-Context Programming (MCP) Services](#7-optimize-multi-context-programming-mcp-services)
+- [8. Language-Specific Tips](#8-language-specific-tips)
+- [9. Use Cursor for More Than Just Coding](#9-use-cursor-for-more-than-just-coding)
+- [Cursor Best Practices Resources](#cursor-best-practices-resources)
+- [Awesome MCP repositories](#awesome-mcp-repositories)
+- [Tutorial Videos](#tutorial-videos)
+- [Conclusion](#conclusion)
+
+---
+
 ## Official Cursor Documentation Resources
 
 ### Getting Started
