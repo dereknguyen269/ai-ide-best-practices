@@ -35,6 +35,7 @@ Whether you're refining your workflow, preparing for technical interviews, or lo
 - [Cursor Best Practices Resources](#cursor-best-practices-resources)
 - [Awesome MCP repositories](#awesome-mcp-repositories)
 - [Tutorial Videos](#tutorial-videos)
+- [Online Courses](#online-courses)
 - [Conclusion](#conclusion)
 
 ---
@@ -235,6 +236,14 @@ Cursor isn't just for writing code; it can also help with other development task
 * [Cursor AI Tutorial for Beginners [2025 Edition]](https://www.youtube.com/watch?v=3289vhOUdKA&ab_channel=VoloBuilds) - Volo Builds
 * [Cursor Tutorial for Beginners (AI Code Editor)](https://www.youtube.com/watch?v=ocMOZpuAMw4&ab_channel=TechWithTim) - Tech With Tim
 * [Let's learn how to use Cursor AI](https://www.youtube.com/playlist?list=PLJrzt4ameiaMNvgMrW69BF_j_3RhoIwSF) - Corbin Brown
+
+## Online Courses
+
+* [FullStack development with Cursor Vibe Coding](https://www.udemy.com/course/cursor-ai-ide/?couponCode=25BBPMXACCAGE2)
+* [MCP | Full Stack | Free SaaS Boilerplate](https://www.udemy.com/course/ai-coding-with-cursor/)
+* [Cursor AI: Learn by Building Full-Stack Next.js 15 App](https://www.udemy.com/course/cursorai-nextjs/)
+* [AI for Coding: Master Cursor AI for 20X Faster Fullstack App](https://www.udemy.com/course/ai-for-coding/)
+* [Accelerate Development with Artificial Intelligence and Cursor](https://www.linkedin.com/learning/accelerate-development-with-artificial-intelligence-and-cursor)
 
 ## Conclusion
 
