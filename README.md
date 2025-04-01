@@ -230,6 +230,10 @@ Cursor isn't just for writing code; it can also help with other development task
 * [browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server)
 * [mcp-unity](https://github.com/CoderGamester/mcp-unity)
 * [fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)
+* [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+* [blender-mcp ](https://github.com/ahujasid/blender-mcp)
+* [ghidraMCP](https://github.com/LaurieWired/GhidraMCP)
+* [crawl4ai](https://github.com/unclecode/crawl4ai)
 
 ## Tutorial Videos
 
