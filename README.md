@@ -233,6 +233,7 @@ Cursor isn't just for writing code; it can also help with other development task
 * [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 * [blender-mcp ](https://github.com/ahujasid/blender-mcp)
 * [ghidraMCP](https://github.com/LaurieWired/GhidraMCP)
+* [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ## Tutorial Videos
 
