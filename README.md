@@ -213,9 +213,16 @@ Cursor isn't just for writing code; it can also help with other development task
 * [awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - @kleneway
 * [devin.cursorrules](https://github.com/grapeot/devin.cursorrules)
 * [cursor.directory](https://github.com/pontusab/directories)
+* [Cursor Tutorial for Beginners - Top 17 Practical Examples to Use Cursor AI like a PRO (SHOCKING RESULTS)](https://www.geeksforgeeks.org/how-to-use-cursor-ai-with-examples/)
+* [Vibe Coding with Cursor AI (Tips and Tricks Included)](https://www.pragmaticcoders.com/blog/vibe-coding-with-cursor-ai)
+* [Best Practices for Using PRDs with Cursor](https://www.chatprd.ai/resources/PRD-for-Cursor)
+* [Understanding Cursor: key features, limitations, and how to use it](https://decode.agency/article/cursor-guide/)
+* 
 * [How I use Cursor (+ my best tips)](https://www.builder.io/blog/cursor-tips)
 * [6 Tips for improving your Cursor Composer and Convex Workflow](https://stack.convex.dev/6-tips-for-improving-your-cursor-composer-and-convex-workflow)
 * [Top Cursor Rules for Coding Agents](https://www.prompthub.us/blog/top-cursor-rules-for-coding-agents)
+* [Consider Always Use Max Models](https://www.vincentschmalbach.com/always-use-max-models-in-cursor-ide/)
+* [How to Use Claude 3.7 Sonnet Max Mode in Cursor AI IDE](https://apidog.com/blog/how-to-use-claude-3-7-sonnet-max-mode-in-cursor-ai-ide/)
 
 ## Awesome MCP repositories
 
