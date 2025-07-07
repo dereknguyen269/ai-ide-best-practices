@@ -331,6 +331,11 @@ AI coding assistants can help with many development-adjacent tasks:
 
 ## Awesome AI IDE Resources
 
+### Claude Code Resources
+* [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+* [Real-time Claude Code usage monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+* [claude-code-guide](https://github.com/zebbern/claude-code-guide)
+
 ### Cursor Resources
 * [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding)
 * [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules)
