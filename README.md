@@ -329,7 +329,7 @@ AI coding assistants can help with many development-adjacent tasks:
     *   Generate examples to illustrate programming patterns
     *   Example: "Show me examples of the decorator pattern in Python"
 
-## Awesome AI IDE Resources
+## Awesome AI Resources
 
 ### Claude Code Resources
 * [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
