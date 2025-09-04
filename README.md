@@ -379,6 +379,7 @@ AI coding assistants can help with many development-adjacent tasks:
 * [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 * [blender-mcp](https://github.com/ahujasid/blender-mcp)
 * [ghidraMCP](https://github.com/LaurieWired/GhidraMCP)
+* [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
 
 ## Tutorial Videos
 
