@@ -1,11 +1,7 @@
 <h1 align="center">Best Practices for Supercharging Your Coding with AI-Powered IDEs</h1>
 <div align="center">
-    <p>
-        <img src="https://www.cursor.sh/apple-touch-icon.png" alt="Cursor" width="60" height="60"/>
-        <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="60" height="60"/>
-    </p>
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-    <img src="https://img.shields.io/static/v1?label=⭐&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
+     <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
     <img alt="Github license" src="https://img.shields.io/github/license/dereknguyen269/programing-best-practices" />
 </div>
 
