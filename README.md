@@ -8,7 +8,7 @@
 
 Transform your development workflow with AI-powered coding assistants. This comprehensive guide covers everything from basic setup to advanced techniques for maximizing productivity with tools like **Cursor**, **GitHub Copilot**, and emerging AI development platforms.
 
-> 💡 **Quick Start**: New to AI coding? Jump to [Core Fundamentals](#core-fundamentals) to get started immediately.
+> 💡 **Quick Start**: New to AI coding? Jump to [Core Fundamentals](#-core-fundamentals) to get started immediately.
 
 ---
 
